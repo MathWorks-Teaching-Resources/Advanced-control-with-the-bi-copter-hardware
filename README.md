@@ -15,7 +15,8 @@ MPC provides satisfactory control even in the presence of disturbance - the extr
 
 <img src="MPC/images/closed_loop_weight_on.gif" width="300"> <img src="MPC/images/closedloop_weighton_fig.jpg" width="350"> 
 
-[![Watch the tech talk to learn how to perform system identification experiments and design an MPC for controlling the bi-copter.](https://www.youtube.com/watch?v=DvDSkyDHb9o&t=900s)
+[![Watch this tech talk ](https://img.youtube.com/vi/DvDSkyDHb9o/0.jpg)](https://www.youtube.com/watch?v=DvDSkyDHb9o)
+to learn how to perform system identification experiments and design an MPC for controlling the bi-copter.
 
 ## Products
 
